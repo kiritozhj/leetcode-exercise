@@ -1,1 +1,1 @@
-# leetcode-exercise
+# some algorithm and ds exercises
